@@ -1,0 +1,7 @@
+python -m django --version ............ номер версии
+django-admin startproject name ........ создать проэкт
+
+python manage.py command .............. выполнить команду django
+    migrate --------------------------> миграция баз данных
+    runserver ------------------------> запустить сервер разработки
+    startapp name --------------------> создать приложение
